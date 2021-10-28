@@ -1,6 +1,3 @@
-# partners-center
-포들리 파트너스 센터 프로젝트
-
 ### COMMIT TAG 정의
 - [INITIAL] - 레포지토리 최초 생성
 - [ADD] - 신규파일 추가
